@@ -1,4 +1,4 @@
-🇪🇸 _si quieres ver este informe en español, da clic aquí_
+🇪🇸 _si quieres ver este informe en español, [da clic aquí](https://github.com/PyAngel/customer-engagement-analysis-in-data-science-online-academy/blob/main/README_ESP.md)_
 # Customer Engagement Analysis In Data Science Online Academy
 ## This repository contains the analysis and development for customer engagement, content, and course evaluation ratings at Data Science Academy.
 ✏️ _The database is provided by 365datascience.com, and its use is strictly academic_ ✏️
