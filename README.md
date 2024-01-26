@@ -3,7 +3,7 @@
 ## This repository contains the analysis and development for customer engagement, content, and course evaluation ratings at Data Science Academy.
 ✏️ _The database is provided by 365datascience.com, and its use is strictly academic_ ✏️
 
-If you would like check main dashboard ONLINE,👉👉[please click here](https://lookerstudio.google.com/embed/reporting/24a9a17c-7c7e-436c-b65a-7a2b25a14109/page/DbKoD)👈👈. 
+If you would like check main dashboard ONLINE,👉👉[please click here]([https://lookerstudio.google.com/embed/reporting/24a9a17c-7c7e-436c-b65a-7a2b25a14109/page/DbKoD](https://lookerstudio.google.com/reporting/24a9a17c-7c7e-436c-b65a-7a2b25a14109))👈👈. 
 
 ## OBJETIVE
 our goal is to gather quantifiable information about the engagement of our customers with our content, 365 datascience is a online platform to education in datascience and financial analisys,
