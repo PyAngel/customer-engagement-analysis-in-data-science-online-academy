@@ -1,4 +1,4 @@
-
+🇪🇸 _si quieres ver este informe en español, da clic aquí_
 # Customer Engagement Analysis In Data Science Online Academy
 ## This repository contains the analysis and development for customer engagement, content, and course evaluation ratings at Data Science Academy.
 ✏️ _The database is provided by 365datascience.com, and its use is strictly academic_ ✏️
@@ -39,5 +39,9 @@ In this project, I use:
   </a>
 </p>
 
-## SCREENSHOTS
+## INSIGHTS
+1. Average user consume 28 minutes per sesion
+2. Countries with fewer users consume more (in minutes) per user than other countries with a significant difference in active users (like the USA, IN),This could be due to consumption habits, lifestyle, among other factors.
+3. It is noteworthy that in India, being the country with the highest number of active users, they have consumed only around 26 minutes per user on average in ten months. This could raise a concern, as it suggests that the marketing strategy in that country may be attracting customers who are not very interested in using the service. This could potentially lead to a lack of long-term subscriptions from our current customers in India
+4. Continuing with the previous premises in this analysis, it is important to highlight that our introductory courses on data and data science, as well as SQL, have the highest accumulated viewing time globally. In contrast, our more advanced courses (such as PyTorch, etc.) have fewer accumulated views. This may occur as a natural trend when individuals enroll in any intermediate-duration course, where progressively fewer people continue as the course advances.
 
